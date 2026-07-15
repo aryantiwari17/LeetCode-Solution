@@ -1,4 +1,4 @@
-# Aryan-tiwari
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
