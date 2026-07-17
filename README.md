@@ -21,8 +21,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0076-minimum-window-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
