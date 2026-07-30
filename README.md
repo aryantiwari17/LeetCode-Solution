@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0001-two-sum) |
+| [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
@@ -30,4 +31,20 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
