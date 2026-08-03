@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0155-min-stack) |
 ## Matrix
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
