@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0076-minimum-window-substring) |
 ## Array
 |  |
@@ -38,6 +39,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0155-min-stack) |
 ## Matrix
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
