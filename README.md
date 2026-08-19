@@ -12,6 +12,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0013-roman-to-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
