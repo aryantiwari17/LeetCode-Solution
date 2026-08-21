@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
