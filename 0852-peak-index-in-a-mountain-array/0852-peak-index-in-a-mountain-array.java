@@ -10,7 +10,7 @@ class Solution {
             }
             else end = mid;
         }
-       return start;
+       return start; // we cam return end also because it will run till start == end 
     }
 }
 
