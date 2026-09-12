@@ -25,6 +25,7 @@
 | [0001-two-sum](https://github.com/aryantiwari17/Aryan-tiwari/tree/master/0001-two-sum) |
 | [0085-maximal-rectangle](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0085-maximal-rectangle) |
 | [0435-non-overlapping-intervals](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0622-design-circular-queue](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -82,4 +84,12 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0435-non-overlapping-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/aryantiwari17/LeetCode-Solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
